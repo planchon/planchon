@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**planchon/planchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paul, 22, Intern in a big French datascience consulting group. 
 
-Here are some ideas to get you started:
+I love hacking some personal projects and being up to date on the latest technos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## On-going projects:
+ - 📱 **PULSE** : a new social media made using Expo and Serverless Stack
+ - 🕺 *Maestro* : an app to listen to music together, made using Artificial Intelligence, AWS and Expo
+ - 🕹 thrillex : a 3D game made in Java using my ECS, pECS. The ECS helped implement the physic and the OpenGL rendering system
+
+## Cool "finished" projects:
+ - pECS : a very simple **E**ntity **C**omponent **S**ystem made in Java
+ - Polimi GUI Pipeline : a toolbox made to help newbies use very advance AI models without coding
+ - Minecraft JS : a clone of the Minecraft rendering system (and art)
+
+## All time top 3 techs : 
+ - Serverless Stack
+ - Expo
+ - React 
