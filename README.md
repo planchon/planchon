@@ -5,8 +5,7 @@ I'm Paul, 22, Intern in a big French datascience consulting group.
 I love hacking some personal projects and being up to date on the latest technos.
 
 ## On-going projects:
- - 📱 **PULSE** : a new social media made using Expo and Serverless Stack
- - 🕺 *Maestro* : an app to listen to music together, made using Artificial Intelligence, AWS and Expo
+ - 📱 **Memories (name not definitive)** : a new social media made using Expo and Serverless Stack
  - 🕹 thrillex : a 3D game made in Java using my ECS, pECS. The ECS helped implement the physic and the OpenGL rendering system
 
 ## Cool "finished" projects:
