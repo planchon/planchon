@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I'm Paul, 22, Intern in a big French datascience consulting group. 
+I'm Paul, 22, working in a big datascience consulting group. 
 
 I love hacking some personal projects and being up to date on the latest technos.
-
-## On-going projects:
- - 📱 **Memories (name not definitive)** : a new social media made using Expo and Serverless Stack
- - 🕹 thrillex : a 3D game made in Java using my ECS, pECS. The ECS helped implement the physic and the OpenGL rendering system
 
 ## Cool "finished" projects:
  - pECS : a very simple **E**ntity **C**omponent **S**ystem made in Java
