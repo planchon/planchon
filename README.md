@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Paul, 23, working in a consulting group as a devops / data eng consultant. 
+I'm Paul, 23, working in a consulting group as a devops / software eng consultant. 
 
 I love hacking some personal projects and being up to date on the latest technos.
 
